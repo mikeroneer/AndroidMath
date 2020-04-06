@@ -1,0 +1,4 @@
+#!/bin/bash
+
+before_install:
+- curl https://gist.github.com/mikeroneer/768c5bab13b35eb64a1f746e64b8cc51 | sh
